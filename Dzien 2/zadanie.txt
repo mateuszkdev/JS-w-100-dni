@@ -1,0 +1,7 @@
+Napisz skrypt w JavaScript ( zewnetrzny plik ), użytkownik ma podać swój wiek.
+Program na podstawie wieku ma obliczyć czy użytkownik jest pełnoletni →
+	od ilu lat
+czy jest nie pełnoletni →
+	ile lat pozostało do pełnoletności
+
+Wynik ( napis ) ma wypisać na ekran
