@@ -1,4 +1,4 @@
-const wiek = parseFloat(prompt("Podaj wiek")) // deklaracja stałej wiek ( int ) liczba całkowita
+const wiek = parseInt(prompt("Podaj wiek")) // deklaracja stałej wiek ( int ) liczba całkowita
 
 let ile // deklaracja zmiennej lokalnej ile ( potrzebna do szybszego obliczenia ile zostalo do 18 lat LUB od ilu lat sie ma 18 lat)
 
