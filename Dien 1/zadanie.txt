@@ -1,3 +1,0 @@
-Napisz prosty skrypt JavaScript w pliku HTML'a ( osadzony ), użytkownik ma podać z klawiatury imie i wiek ( prompt ) a program ma sprawdzić czy osoba jest pełnoletnia czy nie i wypisać na ekran np.: 
-
-Witaj IMIE, jesteś pełnoletni!
