@@ -2,7 +2,7 @@ const wiek = parseInt(prompt("Podaj wiek")) // deklaracja stałej wiek ( int ) l
 
 let ile // deklaracja zmiennej lokalnej ile ( potrzebna do szybszego obliczenia ile zostalo do 18 lat LUB od ilu lat sie ma 18 lat)
 
-if(wike >= 18){
+if(wiek >= 18){
 
     ile = wiek - 18 // przypisanie bez deklaracji bo zrobiliśmy to już w czesniej 
     document.write(`Jesteś pełnoletni od ${ile} lat!`)    
