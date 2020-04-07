@@ -1,0 +1,40 @@
+Tablice
+
+W JavaScript występują tablice czyli po polsku ujmując zbiory czegoś w zmiennej możliwe do wymienienia po przecinku będące / lub nie ) osobnymi funkcjami 
+
+np. 
+
+możemy zapisać 
+const uczen1 = Adam
+const uczen2 = Marek
+const uczen3 = Marcin
+
+Ale możemy to zapisać za pomocą tablicy:
+
+const uczniowie = [ "Adam", "Marek", "Marcin" ]
+
+odwołanie jednak będzie możliwe w taki sposób ( pamiętając że tablice zacznają się od 0 NIE OD 1 !!)
+
+Chcąc wypisać Marka będziemy musieli zapisać to tak:
+
+document.write(uczniowie[1]) ← taki zapis dlatego że Markek jest 2 w tablicy od lewej a zapis jest od 0 
+
+====----====
+
+Na tą chwile z tablic musimy pamiętać tylko jak wyciągać informacje i jak dodawać
+
+Ale jak dodawać? 
+
+Na pomoc przychodzi... funkcja PUSH
+
+dla przykladu mając tablice owoce = ["jabłko", "banan", "mandarynka"]
+
+chcę dodać owoc "śliwka"
+
+zapisze to tak: 
+
+owoce.push("śliwka")
+
+po tej operacji, tablica bedzie wygladała mniej więcej tak:
+
+owoce = ["jabłko", "banan", "mandarynka", "śliwka"]

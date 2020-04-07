@@ -1,0 +1,10 @@
+Napisz program w JavaScript, który zapyta użytkownika o wiek (tak wiem że to już było :_) oto właśnie chodzi)
+A następnie jeżeli użytkownik będzie miał więcej niż 21 lat, doda jego imie ( a więc ma zapytać o imie :D ) do tablicy
+"ponad", jeżeli jednak nie będzie miał 21 lat ( czyli mniej ) ma dodać jego imie do tablicy "poniżej" a następnie program ma wypisać
+zawartość oby dwóch tablic.
+
+Pzykładowe tablice na początek skryptu ( do operacji na nich )
+
+let ponda = ["Adam", "Marcin", "Mateusz"]
+
+let ponizej = ["Konrad", "Marcel"]
