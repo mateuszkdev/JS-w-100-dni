@@ -1,0 +1,9 @@
+Napisz skrypt króry za zadanie ma obliczyć na podstawie podanego rodzaju waluty
+każdy inny rodzaj 
+
+Użytkownik ma podać kwote w PLN, następnie program ma obliczyc kwote USD i EURO
+zakładając ( prosty kurs ) że:
+
+PLN: 
+	USD: 4,30
+	EURO: 5,20
