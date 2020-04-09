@@ -8,7 +8,7 @@ const waluty = {
     USD: 4.30
 }
 
-// deklaracja obiekty 'wynik', w nim przeliczone waluty na podstawie kwoty w PLN
+// deklaracja obiektu 'wynik', w nim przeliczone waluty na podstawie kwoty w PLN
 const wynik = {
     EURO: PLN/waluty.EURO,
     USD: PLN/waluty.USD
