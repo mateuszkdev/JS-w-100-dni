@@ -14,7 +14,7 @@ if(osoba.wiek > 25 && osoba.staz > 4){
 
     if(osoba.wiek <= 25){ // sprawdzenie czy to wiek zawinił, czy jest mniejszy LUB równy 25
 
-        console.log("Nie ukończyłeś jeszcze 25 lat!")
+        console.log("Masz mniej niż 25 lat lub 25 lat")
 
     } else if(osoba.staz <= 4){ // w przeciwnym razie jezeli staz jest mniejszy lub równy 4, to znaczy że to on zawinił
 
