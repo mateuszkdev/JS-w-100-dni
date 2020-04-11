@@ -1,0 +1,17 @@
+( jeżeli nie czytałeś pliku " wstęp.txt ", udaj się tam teraz! )
+
+Okej, stwórz jakiś plik, np " owoce.js " a następnie uruchom termianl CMD w katalogu.
+( ja jednak polecam PowerShell ) 
+
+wpisz w pliku 
+
+console.log("Hello world from console")
+
+a następnie w terminalu ( będąc w tym samym folderze co plik ) wpisz →
+
+$ node owoce.js
+(lub nazwe twojego pliku zamiast "owoce.js")
+
+Jeżeli wyświetliło ci się w terminalu "Hello world from console", wszystko działa poprawnie!
+
+→ Przejdź teraz do pliku zadanie.txt

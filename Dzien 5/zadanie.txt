@@ -1,0 +1,13 @@
+( jeżeli nie przerobiłeś plików "wstęp.txt" i "omówienie.txt", udaj się do nich)!
+
+ZADANIE:
+
+Napisz skrypt, który będzie miał za zadanie sprawdzić czy wiek użytkownika oraz staż w pracy 
+jest odpowiedni, zakładając że ma mieć ponad 25 lat a staż ma być większy niż 4 lata. 
+Wiek i staż wpisz do obiektu "osoba" ( zadeklaruj odrazu wartośći ponieważ na tym poziomie
+node.js, nie mamy możliwości podania tego poźniej (( ew. process.args , ale to nie teraz)) )
+
+Jeżeli obie wartości się zgadzają w terminal ma zostać wypisane " witaj ", 
+jeżeli nie, osoba ma byc poinformowana co się nie zgadza.
+
+→ przykładowe rozwiązanie znajduje się w pliku "rozwiazanie.js"

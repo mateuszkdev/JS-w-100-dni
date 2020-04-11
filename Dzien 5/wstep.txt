@@ -1,0 +1,19 @@
+node.js 
+
+node.js to potężny moduł ( narzedzie ) dla JavaScript pozwalające na prace JS 
+po stronie serwera. Daje to ogromne możliwości, między innymi pozwala wyeliminować PHP.
+
+Można napisać stronę www w całości na node.js ( np. expres i ejs ) → moduły.
+
+Albo, sam server ( API ) z którego będziemy pobierać zapytania. I rezultat np w formacje JSON.
+
+Okej, dlatego teraz pora na NODE.JS
+
+Należy więc pobrać node.js, przejdź na tą strone i pobierz ( najlepiej wersje v13 na tej
+wersji będę omawiać ). [link]( https://nodejs.org/en/ )
+
+Po instalacji w terminalu będzie dostępne polecenie " node " do uruchamiania plików .js
+oraz " npm " do instalacji dodatkowych bibliotek ( modułów ).
+
+→ przejdź do pliku omówienie.txt 
+
